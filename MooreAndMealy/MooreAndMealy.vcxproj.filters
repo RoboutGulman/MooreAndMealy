@@ -46,4 +46,7 @@
     <None Include="moore.csv" />
     <None Include="mealy.csv" />
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="CMakeLists.txt" />
+  </ItemGroup>
 </Project>
